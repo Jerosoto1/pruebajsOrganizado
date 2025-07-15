@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Jero",
+      "email": "jerito@gmail.com",
+      "password": "12345",
+      "role": "admin"
+    },
+    {
+      "id": "3",
+      "name": "Manuel",
+      "email": "manuel@gmail.com",
+      "password": "12345",
+      "role": "visitor"
+    },
+    {
+      "id": "2646",
+      "nombre": "jeronimo",
+      "email": "colorado@gmail.com",
+      "password": "sasa",
+      "rol": "user"
+    }
+  ],
+  "events": [
+    {
+      "id": "O569",
+      "name": "Concert",
+      "email": "email@gmail.com",
+      "phone": "24680",
+      "date": "2020-12-20"
+    }
+  ],
+  "reservations": [
+    {
+      "id": "O569"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "jerosoto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "Jeronimo Soto",
+  "license": "ISC",
+  "description": "Prueba Modulo 03",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "vite": "^7.0.4"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jerosoto1/PRUEBAJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jerosoto1/PRUEBAJS/issues"
+  },
+  "homepage": "https://github.com/Jerosoto1/PRUEBAJS#readme"
+}
