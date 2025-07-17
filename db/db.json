@@ -27,6 +27,20 @@
       "email": "colorado@gmail.com",
       "password": "sasa",
       "rol": "user"
+    },
+    {
+      "id": "dda9",
+      "nombre": "cristian",
+      "email": "cristian@gmail.com",
+      "password": "123",
+      "rol": "user"
+    },
+    {
+      "id": "5f56",
+      "nombre": "mateo",
+      "email": "mateo@gmail.com",
+      "password": "123",
+      "rol": "user"
     }
   ],
   "events": [
